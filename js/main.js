@@ -8,7 +8,7 @@ let datiStudente = [
         eta : 29
     }
 ]
-//console.log(studente);
+//console.log(datiStudente);
 
 //Stampare a schermo attraverso un ciclo for-in tutte le proprietà dell'oggetto.
 // Accediamo a tutte le proprietà di un oggetto //
@@ -42,7 +42,7 @@ console.log(studenti);
 //VARIABILI - NUMERI INSERITI DALL'UTENTE
 let oggettiUtente = [];
 
-for (i =0; i < 3; i++) { //Se devo creare "3 PROMPT" utilizzo il Ciclo "For"
+for (i = 0; i < 3; i++) { //Se devo creare "3 PROMPT" utilizzo il Ciclo "For"
     //oggettiUtente.push(prompt('Inserisci in ordine: nome, cognome, e età'));//Per "INSERIRE" all'interno dell'Array un nuovo oggetto studente utilizzo il METODO "PUSH"
     //studenti.push(oggettiUtente);
     
